@@ -26,6 +26,7 @@ const App = () => {
         <div>
           <Navbar />
           <Switch>
+            <Route path="/" exact component={home} />
             <Route path="/home" exact component={home} />
             <Route path="/about" component={about} />
             <Route path="/partners" exact component={partners} />
