@@ -1,6 +1,6 @@
 import React from "react";
 import { FiArrowRight } from "react-icons/fi";
-import BannerImage from "file:///Users/nimishs/Documents/todo-front-end/src/logo2.svg";
+import BannerImage from "../../Assets/logo2.svg";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { CCard } from "@coreui/react";
 import { CListGroup } from "@coreui/react";

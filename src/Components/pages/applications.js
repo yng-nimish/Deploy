@@ -1,8 +1,8 @@
 import React from "react";
 
 import { FiArrowRight } from "react-icons/fi";
-import SnipetImage from "file:///Users/nimishs/Documents/todo-front-end/src/images/snippet.svg";
-import comingSoon from "file:///Users/nimishs/Documents/Applications/applications/src/Group%2062.svg";
+import SnipetImage from "../../Assets/snippet.svg";
+import comingSoon from "../../Assets/Group 62.svg";
 
 import { CCard } from "@coreui/react";
 import { CCardImage } from "@coreui/react";

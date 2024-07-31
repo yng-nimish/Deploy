@@ -1,7 +1,7 @@
 import React from "react";
 import { FiArrowRight } from "react-icons/fi";
 import "@coreui/coreui/dist/css/coreui.min.css";
-import AurhorImage from "file:///Users/nimishs/Documents/todo-front-end/src/images/image%204.svg";
+import AurhorImage from "../../Assets/image 4.svg";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import { CCard } from "@coreui/react";

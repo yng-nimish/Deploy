@@ -1,14 +1,14 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
 import { FiArrowRight } from "react-icons/fi";
-import BannerImage from "file:///Users/nimishs/Documents/todo-front-end/src/logo2.svg";
-import Grid1 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Frame%20819-2.svg";
-import Grid2 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Frame%20820-3.svg";
-import Grid3 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Grid33.svg";
+import BannerImage from "../../Assets/logo2.svg";
+import Grid1 from "../../Assets/Frame 819-2.svg";
+import Grid2 from "../../Assets/Frame 820-3.svg";
+import Grid3 from "../../Assets/Grid33.svg";
 
-import FounderSeriesTokens from "file:///Users/nimishs/Documents/todo-front-end/src/images/Group%2058-2.svg";
-import TokensUnleashed from "file:///Users/nimishs/Documents/todo-front-end/src/images/Property%201=Variant2.svg";
-import BecomeaMember from "file:///Users/nimishs/Documents/todo-front-end/src/images/Group%2058.svg";
+import FounderSeriesTokens from "../../Assets/Group 58-2.svg";
+import TokensUnleashed from "../../Assets/Property 1=Variant2.svg";
+import BecomeaMember from "../../Assets/Group 58.svg";
 
 import EastIcon from "@mui/icons-material/East";
 

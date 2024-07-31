@@ -1,10 +1,10 @@
 import React from "react";
 
-import BannerImage from "file:///Users/nimishs/Documents/todo-front-end/src/logo2.svg";
+import BannerImage from "../../Assets/logo2.svg";
 
 import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
-import comingSoon from "file:///Users/nimishs/Documents/Applications/applications/src/Group%2062.svg";
+import comingSoon from "../../Assets/Group 62.svg";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 

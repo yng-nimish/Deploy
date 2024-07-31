@@ -2,12 +2,12 @@ import React from "react";
 
 import { FiArrowRight } from "react-icons/fi";
 
-import BookImage from "file:///Users/nimishs/Documents/todo-front-end/src/images/Hard%20Cover%20Book.svg";
-import AurhorImage from "file:///Users/nimishs/Documents/todo-front-end/src/images/image%204.svg";
-import Flag1 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Great%20Britain.svg";
-import Flag2 from "file:///Users/nimishs/Documents/todo-front-end/src/images/USA.svg";
-import Flag3 from "file:///Users/nimishs/Documents/todo-front-end/src/images/Canada.svg";
-import "file:///Users/nimishs/Documents/Nav/nav/src/App.css";
+import BookImage from "../../Assets/Hard Cover Book.svg";
+import AurhorImage from "../../Assets/image 4.svg";
+import Flag1 from "../../Assets/Great Britain.svg";
+import Flag2 from "../../Assets/USA.svg";
+import Flag3 from "../../Assets/Canada.svg";
+import "../../App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { CCard } from "@coreui/react";
 import { CListGroup } from "@coreui/react";

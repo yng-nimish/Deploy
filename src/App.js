@@ -38,7 +38,7 @@ const App = () => {
             <Route path="/guarantee" component={guarantee} />
             <Route path="/purchase" component={purchase} />
           </Switch>
-          <Home />
+
           <Footer />
         </div>
       </BrowserRouter>
