@@ -70,15 +70,24 @@ body {
 body {
   background-color: #f6f6f6;
 }
+.menu {
+  
+  color: #eaebf7;
+  background-color: #363ABF;
+  align-items: right;
+  
+  
+}
 
 nav {
   display: flex;
   color: #eaebf7;
   background-color: #363ABF;
-  align-items: center;
+  align-items: right;
   justify-content: space-between;
   min-height: 90px;
 }
+
 .navbar-menu-container {
   display: none;
   align-items: center;
