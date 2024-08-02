@@ -1,10 +1,9 @@
 // App.js
 import React from "react";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
-import Home from "./Components/pages/home";
-import About from "./Components/pages/about";
+
 import { BrowserRouter } from "react-router-dom";
-import Navbar from "./Components/navbar";
+import Navbar from "./Components/Navbar";
 import home from "./Components/pages/home";
 import about from "./Components/pages/about";
 import partners from "./Components/pages/partners";
